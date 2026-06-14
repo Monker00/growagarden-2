@@ -1,2 +1,2 @@
 getgenv().TARGET = "KFuToad"
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d1ae8812dfd7e4731c754b31a1d712ea.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/41d1fa8b8c088dbe60de91d7e1a0d5cb.lua"))()
